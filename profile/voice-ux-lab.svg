@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<title>Voice UX Lab</title>
+<desc>A gold voice waveform passes through three tarot cards on a midnight-purple background.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121024"/><stop offset="1" stop-color="#31244e"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#e8dbfa" stroke-opacity=".12"/></pattern>
+  <linearGradient id="card" x2="1" y2="1"><stop stop-color="#4d396e"/><stop offset="1" stop-color="#221a38"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="308" rx="23" fill="url(#bg)" stroke="#76648f"/>
+<rect x="637" y="18" width="536" height="274" rx="15" fill="url(#grid)"/>
+<path d="M45 50H1155M45 260H1155" stroke="#b8a4d1" stroke-opacity=".33"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+  <text x="62" y="102" fill="#f3ce8c" font-size="20" font-weight="700" letter-spacing="4">VOICE-FIRST AI STUDIO</text>
+  <text x="59" y="181" fill="#fff9ed" font-size="77" font-weight="700" letter-spacing="-3">Voice UX Lab</text>
+  <text x="63" y="222" fill="#dbcaed" font-size="26">Designing AI conversations you can hear.</text>
+</g>
+<g fill="url(#card)" stroke="#b9a0d5" stroke-width="2">
+  <rect x="782" y="76" width="109" height="154" rx="12" transform="rotate(-18 837 153)"/>
+  <rect x="955" y="76" width="109" height="154" rx="12" transform="rotate(18 1010 153)"/>
+  <rect x="861" y="65" width="121" height="180" rx="13" stroke="#f3ce8c"/>
+</g>
+<rect x="871" y="75" width="101" height="160" rx="8" fill="none" stroke="#f3ce8c" stroke-opacity=".43"/>
+<circle cx="921.5" cy="154" r="39" fill="none" stroke="#f3ce8c" stroke-opacity=".5"/>
+<path d="M921.5 124Q926 149 951 154Q926 159 921.5 184Q917 159 892 154Q917 149 921.5 124Z" fill="#f3ce8c"/>
+<path d="M673 154H714L725 137L739 181L754 110L768 177L781 145L789 154H803M1039 154H1051L1061 136L1074 174L1087 121L1100 166L1110 154H1141" stroke="#f3ce8c" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#e5d4fc"><circle cx="805" cy="80" r="3"/><circle cx="1058" cy="222" r="4"/><circle cx="1009" cy="72" r="3"/><circle cx="740" cy="215" r="2.5"/><circle cx="1126" cy="92" r="3"/></g>
+</svg>
